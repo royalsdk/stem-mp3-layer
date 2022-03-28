@@ -9,4 +9,4 @@ Depending on your OS, your song will download in different locations.
 
 For IOS (IPhone, IPad), your files will download into your files which you can access by searching for the app *Files* and accessing the songs from the app. 
 
-For desktop OS' (Windows, Mac, Linux), your song will download to your default downloads directory. Windows EX: C:\Users\username\Downloads
+For desktop OS' (Windows, Mac, Linux), your song will download to your default download directory. Windows EX: C:\Users\username\Downloads
